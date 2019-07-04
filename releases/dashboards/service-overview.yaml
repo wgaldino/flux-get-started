@@ -2,7 +2,7 @@
 apiVersion: v1
 kind: ConfigMap
 metadata:
-  name: grafana-dashboard-runtime
+  name: dashboard-service-overview
   labels:
     grafana_dashboard: "1"
 data:

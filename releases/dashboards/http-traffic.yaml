@@ -2,7 +2,7 @@
 apiVersion: v1
 kind: ConfigMap
 metadata:
-  name: grafana-dashboard-http
+  name: dashboard-http-traffic
   labels:
     grafana_dashboard: "1"
 data:
